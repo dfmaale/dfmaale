@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge)](https://sites.google.com/view/faustusdomebalemaale/biography)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=WQMaEaUAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maale-faustus-6391671a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faustus-maale-6391671a1/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fdmaale@aggies.ncat.edu)
 
 </div>

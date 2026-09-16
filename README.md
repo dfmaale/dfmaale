@@ -15,9 +15,9 @@
 
 ## About Me
 
-I am a statistician and data scientist from Ghana, currently pursuing a **Ph.D. in Applied Science and Technology—with a concentration in Data Science and Analytics—at North Carolina A&T State University**. My research sits at the intersection of robust statistical learning, artificial intelligence, healthcare, mental health, and public health.
+I am a statistician and data scientist, currently pursuing a Ph.D. in Applied Science and Technology (Data Science and Analytics) at North Carolina A&T State University. My research lies at the intersection of robust statistical learning, artificial intelligence, healthcare, mental health, and public health.
 
-I develop statistical and machine-learning methods that remain reliable under real-world complications such as **missing data, distribution shift, model uncertainty, and fairness concerns**. My broader goal is to translate rigorous methodology into actionable evidence for research, practice, and policy.
+I develop statistical and machine‑learning methods that remain reliable under real‑world complications such as missing data, distribution shift, model uncertainty, and fairness constraints. Broadly, my work aims to translate rigorous methodology into actionable evidence for research, practice, and policy, ensuring that predictive systems remain trustworthy in the settings where they matter most.
 
 ## Research Focus
 
